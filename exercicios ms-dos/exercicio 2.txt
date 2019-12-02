@@ -1,0 +1,11 @@
+C:\>cd GE
+
+C:\GE>rmdir GestaoII
+
+C:\GE>cd..
+
+C:\>cd IG
+
+C:\IG>md GestaoII
+
+C:\IG>

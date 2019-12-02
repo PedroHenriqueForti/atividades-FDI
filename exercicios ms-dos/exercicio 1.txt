@@ -1,0 +1,37 @@
+C:\>md IG
+
+C:\>md A:\
+O sistema não pode encontrar a unidade especificada.
+
+C:\>md EI
+
+C:\>md GE
+
+C:\>cd IG
+
+C:\IG>md EFC
+C:\IG>md Gestao
+
+C:\IG>cd ..
+
+C:\>cd EI
+
+C:\EI>md Fisica
+
+C:\EI>cd ..
+
+C:\>cd EI
+
+C:\EI>md inform
+
+C:\EI>cd ..
+
+C:\>cd GE
+
+C:\GE>md Fisical
+
+C:\GE>md GestaoII
+
+C:\GE>cd ..
+
+C:\>
